@@ -11,7 +11,7 @@
 <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="timeline.js"></script>
 ```
-#### 使用 'test为一个div的id'
+#### 使用 `test为一个div的id`
 ```
 let opt = {
     'start': 8,
