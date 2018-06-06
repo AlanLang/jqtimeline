@@ -1,0 +1,44 @@
+﻿.bottom-line {
+    width: 70px;
+    height: 6px;
+    display: inline-block;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+.bottom-line-end {
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+.bottom-times{
+	padding-left: 60px;
+}
+.bottom-time{
+	width:70px;
+    display: inline-block;
+}
+.equ-line{
+	height:20px;
+	    display: inline-block;
+}
+.equ-name{
+	font-size: 12px;
+}
+.remark-div{
+	    text-align: right;
+}
+.remark-group{
+	display: inline-block;
+}
+.remark-name{
+	display: inline-block;
+	margin-right: 10px;
+}
+.remark-color{
+	width:30px;
+	height:15px;
+		display: inline-block;
+		margin-right: 5px;
+}
